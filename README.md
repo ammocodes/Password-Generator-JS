@@ -7,6 +7,7 @@ Javascript password generator
 ## Authors
 
 - [@ammocodes](https://github.com/ammocodes)
+- Private tutoring from EDX
 
 ## Badges
 
