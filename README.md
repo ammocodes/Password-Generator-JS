@@ -1,77 +1,43 @@
-# Module 5 Challenge: Password Generator
 
-## Overview
+# Project Title
 
-This week’s challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
+Javascript password generator
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
 
-## Instructions
+## Authors
 
-The following image shows the web application's appearance and functionality:
+- [@ammocodes](https://github.com/ammocodes)
 
-![password generator demo](./assets/05-javascript-challenge-demo.png)
+## Badges
 
-- Generate a password when the button is clicked
-  - Present a series of prompts for password criteria
-    - Length of password
-      - At least 10 characters but no more than 64.
-    - Character types
-      - Lowercase
-      - Uppercase
-      - Numeric
-      - Special characters ($@%&\*, etc)
-  - Code should validate for each input and at least one character type should be selected
-  - Once prompts are answered then the password should be generated and displayed in an alert or written to the page
 
-## Grading Requirements
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-This challenge is graded based on the following criteria:
 
-### Technical Acceptance Criteria: 40%
 
-- Satisfies all of the above acceptance criteria plus the following:
+## Demo
 
-  - The challenge should not produce any errors in the console when you inspect it using Chrome DevTools.
+https://github.com/ammocodes/Password-Generator-JS
+## Documentation
 
-### Deployment: 32%
+Press generate password and follow the prompts to generate a password.
 
-- Application deployed at live URL.
 
-- Application loads with no errors.
+## Installation
 
-- Application GitHub URL submitted.
+Not applicable
+## License
 
-- GitHub repository that contains application code.
+[MIT](https://choosealicense.com/licenses/mit/)
 
-### Application Quality: 15%
 
-- Application user experience is intuitive and easy to navigate.
+## Screenshots
 
-- Application user interface style is clean and polished.
+![App Screenshot](https://i.imgur.com/v9iu1ga.png)
 
-- Application resembles the mock-up functionality provided in the challenge instructions.
 
-### Repository Quality: 13%
+## Acknowledgements
 
-- Repository has a unique name.
+ - Work In Progress
 
-- Repository follows best practices for file structure and naming conventions.
 
-- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-- Repository contains multiple descriptive commit messages.
-
-- Repository contains quality README file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-- The URL of the deployed application.
-
-- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
